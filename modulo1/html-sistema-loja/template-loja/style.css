@@ -1,0 +1,79 @@
+*{
+    margin: 8px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(224, 125, 141);
+}
+/* imagens */
+.coxinha{
+    height: 100px;
+}
+.empada{
+    height: 100px;
+}
+.assado{
+    height: 120px;
+}
+.bombom{
+    height: 150px;
+}
+.salsicha{
+    height: 125px;
+}
+.facebook{
+    height: 50px;
+}
+
+.instagram{
+    height: 50px;
+}
+
+.twitter{
+    height: 50px;
+}
+
+.funcionarios{
+    padding: 0px 600px 0px 600px;
+}
+
+/* menus */
+nav{
+    border: solid;
+    padding: 10px 0px 10px 0px;
+    margin: 0px 300px;
+}
+/* tabela */
+table{
+    border: solid;
+    background-color: white;
+    margin: 0px 350px 0px 350px;
+}
+th{
+    border: solid;
+    background-color: beige;
+}
+td{
+    border: solid;
+    background-color: aquamarine;
+}
+
+
+input {
+    background-color: aliceblue;
+}
+
+/* formulario */
+form{
+    border: solid;
+    margin: 0px 300px;
+}
+button{
+    background-color: rgb(78, 3, 22);
+    color: white;
+}
+
+footer{
+    position: absolute;
+    text-align: center;
+    width: 90%;
+}
