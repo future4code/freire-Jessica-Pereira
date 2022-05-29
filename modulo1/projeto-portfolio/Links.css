@@ -1,0 +1,16 @@
+*{
+    background-color: gainsboro; 
+     text-align: center;
+  }
+
+a{
+    background-color: gainsboro;
+    color: rgb(13, 1, 43);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+
+
+ .linkedin, .twiter, .github, .facelogo, .insta{
+     height: 100px;
+ }

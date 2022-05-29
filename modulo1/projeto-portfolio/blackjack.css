@@ -1,7 +1,9 @@
+
 *{
     background-color: gainsboro; 
      text-align: center;
   }
+
 
 a{
     background-color: gainsboro;
@@ -9,14 +11,3 @@ a{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
 }
-
-.black{
-    height: 200px;
-}
-
-.galeria, .loja{
-    height: 200px;
-
-}
-
-

@@ -3,20 +3,10 @@
      text-align: center;
   }
 
-a{
+  a{
     background-color: gainsboro;
     color: rgb(13, 1, 43);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
 }
-
-.black{
-    height: 200px;
-}
-
-.galeria, .loja{
-    height: 200px;
-
-}
-
 

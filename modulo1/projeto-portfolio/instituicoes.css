@@ -1,4 +1,25 @@
 *{
-    text-align: center;
-   background-color: grey;
+    background-color: gainsboro; 
+     text-align: center;
+  }
+
+a{
+    background-color: gainsboro;
+    color: rgb(13, 1, 43);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+
+.uninter{
+    height: 150px;
+}
+.labenu{
+    height: 100px;
+}
+.isabela{
+    height: 150px;
+}
+
+.uninter:active{
+    background-color: aliceblue;
 }
