@@ -1,0 +1,28 @@
+*{
+  background-color: gainsboro; 
+   text-align: center;
+}
+img{
+    height: 280px;
+  
+
+}
+
+nav{
+    text-align: auto;
+  margin: 0px 500px;
+  background-color: gainsboro;
+}
+a{
+    background-color: gainsboro;
+    color: rgb(13, 1, 43);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
