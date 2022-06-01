@@ -7,20 +7,31 @@ header {
     height: 50px;
     align-items: center;
     display: grid;
-   grid-template-columns: 5fr 1fr;
-   background-color: orangered;
-   padding: 10px;
+    grid-template-columns: 5fr 1fr;
+    background-color: orangered;
+    padding: 10px;
 
 }
 
-footer{
+footer {
     background-color: gray;
 }
 
-div{
+div {
     margin: 50px;
 }
-video{
-    height: 60%;
-    width: 60%;
+
+video {
+    height: 80%;
+    width: 80%;
+}
+
+@media screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+    /* celulares */
+    video {
+        height: 10em;
+        width: 15em;
+    }
+
 }
