@@ -1,0 +1,74 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    display: grid;
+    height: 50px;
+    align-items: center;
+
+    grid-template-columns: 5fr 1fr;
+    background-color: orangered;
+    padding: 10px;
+
+}
+
+footer {
+    background-color: gray;
+}
+
+#conteiner {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    max-width: 100vw;
+    row-gap: 40px;
+    column-gap: 40px;
+    margin: 40px;
+    justify-items: center;
+
+}
+
+.video1 {
+    border: 1px solid;
+    justify-items: center;
+    align-content: center;
+
+}
+
+video {
+    height: 15em;
+    width: 15em;
+}
+
+
+@media screen and (max-device-width : 480px) {
+
+    /* celulares */
+    #conteiner {
+        grid-template-columns: 1fr;
+    }
+
+    video {
+        height: 15em;
+        width: 15em;
+    }
+
+}
+
+
+@media screen and (min-device-width : 481px) and (max-device-width : 800px) {
+
+    /* tablets */
+    #conteiner {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    video {
+        height: 15em;
+        width: 15em;
+    }
+
+
+}
